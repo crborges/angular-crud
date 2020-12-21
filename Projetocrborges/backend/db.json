@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta azul bic",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "notebook mac",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "sansung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "chave de fenda",
+      "price": "150.00",
+      "id": 4
+    },
+    {
+      "name": "chave de fenda",
+      "price": "150.00",
+      "id": 5
+    },
+    {
+      "name": "chave de fenda",
+      "price": "150.00",
+      "id": 6
+    },
+    {
+      "name": "chave de fenda",
+      "price": "150.00",
+      "id": 7
+    },
+    {
+      "name": "chave de fenda",
+      "price": "150.00",
+      "id": 8
+    },
+    {
+      "name": "chave de fenda",
+      "price": "150.00",
+      "id": 9
+    },
+    {
+      "name": "chave de fenda",
+      "price": "150.00",
+      "id": 10
+    },
+    {
+      "name": "chave de fenda",
+      "price": "150.00",
+      "id": 11
+    },
+    {
+      "name": "chave de fenda",
+      "price": "150.00",
+      "id": 12
+    }
+  ]
+}
